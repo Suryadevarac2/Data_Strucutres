@@ -1,6 +1,6 @@
-#include <iostream> 
-#include <stack>
-using namespace std;
+#include <iostream> // Include the input/output stream library
+#include <stack> // Include the stack container  header
+using namespace std;// Using the standard namespace
 
 int main() {
     // Creating a stack to hold integers
